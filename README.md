@@ -1,1 +1,2 @@
-# backend-billing-cycle-app
+# Backend
+- Using: NodeJS, ExpressJS + CORS, Mongoose + MongoDB

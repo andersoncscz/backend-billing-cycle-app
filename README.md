@@ -1,2 +1,2 @@
 # Backend
-- Using: NodeJS, ExpressJS + CORS, Mongoose + MongoDB
+- Using: NodeJS + Mongoose + ExpressJS + CORS + MongoDB
